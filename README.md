@@ -1,4 +1,4 @@
-# Flux implementation exemplar for universal UI
+# Universal UI Flux implementation exemplar
 
 The implementation includes:
 + Custom `Dispatcher`
